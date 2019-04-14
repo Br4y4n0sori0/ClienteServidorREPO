@@ -1,6 +1,6 @@
 os: Windows
 language: c
-script: make
+script: makefile
 compiler:
   - clang
   - gcc
