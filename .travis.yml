@@ -1,5 +1,4 @@
 os: Windows
 language: c
-install: make get-deps
 compiler:
   - clang
